@@ -1,2 +1,26 @@
 <Solution>
+  <Project Path="AtelierRex.Application/AtelierRex.Application.csproj" />
+  <Project Path="AtelierRex.CLI/AtelierRex.CLI.csproj" />
+  <Project Path="AtelierRex.Core/AtelierRex.Core.csproj" />
+  <Project Path="AtelierRex.Domain/AtelierRex.Domain.csproj" />
+  <Project Path="AtelierRex.Export.Assets/AtelierRex.Export.Assets.csproj" />
+  <Project Path="AtelierRex.Export.Godot/AtelierRex.Export.Godot.csproj" />
+  <Project Path="AtelierRex.Formats.Director/AtelierRex.Formats.Director.csproj" />
+  <Project Path="AtelierRex.Formats.Riff/AtelierRex.Formats.Riff.csproj" />
+  <Project Path="AtelierRex.Infrastructure/AtelierRex.Infrastructure.csproj" />
+  <Project Path="AtelierRex.MediaVault/AtelierRex.MediaVault.csproj" />
+  <Project Path="AtelierRex.PluginForge/AtelierRex.PluginForge.csproj" />
+  <Project Path="AtelierRex.Revive.Core/AtelierRex.Revive.Core.csproj" />
+  <Project Path="AtelierRex.Revive.Engines.Godot/AtelierRex.Revive.Engines.Godot.csproj" />
+  <Project Path="AtelierRex.Revive.Engines.HTML5/AtelierRex.Revive.Engines.HTML5.csproj" />
+  <Project Path="AtelierRex.Revive.Engines.Libretro/AtelierRex.Revive.Engines.Libretro.csproj" />
+  <Project Path="AtelierRex.Tests.Application/AtelierRex.Tests.Application.csproj" />
+  <Project Path="AtelierRex.Tests.Core/AtelierRex.Tests.Core.csproj" />
+  <Project Path="AtelierRex.Tests.Domain/AtelierRex.Tests.Domain.csproj" />
+  <Project Path="AtelierRex.Tests.Infrastructure/AtelierRex.Tests.Infrastructure.csproj" />
+  <Project Path="AtelierRex.Tests.Integration/AtelierRex.Tests.Integration.csproj" />
+  <Project Path="AtelierRex.Tests.MediaVault/AtelierRex.Tests.MediaVault.csproj" />
+  <Project Path="AtelierRex.Tests.Revive/AtelierRex.Tests.Revive.csproj" />
+  <Project Path="AtelierRex.Tests.UI/AtelierRex.Tests.UI.csproj" />
+  <Project Path="AtelierRex.UI/AtelierRex.UI.csproj" />
 </Solution>

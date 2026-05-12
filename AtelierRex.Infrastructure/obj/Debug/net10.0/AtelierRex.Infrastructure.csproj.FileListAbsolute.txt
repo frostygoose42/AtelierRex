@@ -1,0 +1,16 @@
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\bin\Debug\net10.0\AtelierRex.Infrastructure.deps.json
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\bin\Debug\net10.0\AtelierRex.Infrastructure.dll
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\bin\Debug\net10.0\AtelierRex.Infrastructure.pdb
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\obj\Debug\net10.0\AtelierRex.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\obj\Debug\net10.0\AtelierRex.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\obj\Debug\net10.0\AtelierRex.Infrastructure.AssemblyInfo.cs
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\obj\Debug\net10.0\AtelierRex.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\obj\Debug\net10.0\AtelierRex.Infrastructure.sourcelink.json
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\obj\Debug\net10.0\AtelierRex.Infrastructure.dll
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\obj\Debug\net10.0\refint\AtelierRex.Infrastructure.dll
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\obj\Debug\net10.0\AtelierRex.Infrastructure.pdb
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\obj\Debug\net10.0\ref\AtelierRex.Infrastructure.dll
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\bin\Debug\net10.0\AtelierRex.Core.dll
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\bin\Debug\net10.0\AtelierRex.Core.pdb
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\obj\Debug\net10.0\AtelierRex.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\thoma\Documents\ROM\AtelierRex\AtelierRex.Infrastructure\obj\Debug\net10.0\AtelierR.40A4F969.Up2Date
